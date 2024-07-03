@@ -1,2 +1,3 @@
 # Pastel1
-Pastel feliz sempre nos deixa feliz
+Pastel feliz sempre nos deixa feliz!
+Sorvete também!
